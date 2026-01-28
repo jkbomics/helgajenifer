@@ -34,12 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Helga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=helgajenifer&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helgajenifer&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Helga%20Jenifer-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/helga-jenifer-m-208977147)
 [![Great Learning](https://img.shields.io/badge/Certificate-Great%20Learning-orange?style=flat-square&logo=google-scholar)](https://www.mygreatlearning.com/certificate/SNPFJAMA)
